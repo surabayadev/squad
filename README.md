@@ -24,5 +24,5 @@ Squad kebanggaan Surabayadev 🙂
 | No | Avatar | Name | Email | Ability |
 |----|--------|------|-------|---------|
 | 1  |<img src="https://www.gravatar.com/avatar/dc79d1bd32effa9db886ffcdd65ae93b?s=150" width="50" height="50">|Muhamad Ilham Arrouf|ilham.arrouf@gmail.com|`NodeJS`, `PHP`|
-| 2  |-|-|-|-|
+| 2  |<img src="https://www.gravatar.com/avatar/d85aeeba481ce52f43d5a95f874c88d9?s=150" width="50" height="50">|Nusendra Hanggarawan|admin@nusendra.com|`PHP`,`C#`|
 | 3  |-|-|-|-|
