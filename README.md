@@ -27,4 +27,5 @@ Squad kebanggaan Surabayadev 🙂
 | 2  |<img src="https://www.gravatar.com/avatar/d85aeeba481ce52f43d5a95f874c88d9?s=150" width="50" height="50">|Nusendra Hanggarawan|admin@nusendra.com|`PHP`,`C#`|
 | 3  |<img src="http://gravatar.com/avatar/87a49f33e31b13b347fde4594617efc7?s=150" width="50" height="50">|Muhammad Nurul Huda|hudagenji@gmail.com|`PHP`,`JavaScript`|
 | 4  |<img src="http://gravatar.com/avatar/25c95a1cf1dac1cdda94e905155befba?s=150" width="50" height="50">|Mochamad Fakhrur Rozi|rzcode404@gmail.com|`PHP`|
+| 5  |<img src="https://gravatar.com/avatar/e96c609a95c720a7390fcea7218d4ea3?s=150" width="50" height="50">|Choirul Afandi|productive.afandi@gmail.com|`PHP`|
 
